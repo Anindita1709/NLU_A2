@@ -31,7 +31,7 @@ cd NLU_A2\Problem #
 pip install -r requirements.txt
 ```
 
-### Run the code
+### Run the code (Problem 1)
 ```
 python data_preprocess.py
 python manualword2vec.py
