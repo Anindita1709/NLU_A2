@@ -33,7 +33,8 @@ pip install -r requirements.txt
 
 ### Run the code
 ```
-python datapreprocess.py
+python data_preprocess.py
+python manualword2vec.py
 ```
 
 ---
@@ -47,14 +48,15 @@ python datapreprocess.py
 
 ### Run the script
 ```
-!python datapreprocess.py
+!python data_preprocess.py
+!python manualword2vec.py
 ```
 
 ---
 
 ## Dataset Statistics
 
-![Dataset Statistics](dataset_stats.png)
+![Dataset Statistics](per_document_stats.csv)
 
 ---
 
@@ -68,23 +70,13 @@ python datapreprocess.py
 
 - Ensure dataset files are in correct folders
 - Update file paths if needed
-- GitHub does not allow empty folders
 
 ---
 
 ## requirements.txt
 
 ```
-torch>=2.0.0
-pypdf>=3.0.0
-beautifulsoup4>=4.12.0
-wordcloud>=1.9.0
-requests>=2.31.0
-matplotlib>=3.7.0
-lxml>=4.9.0
-scikit-learn>=1.3.0
-numpy>=1.24.0
-pandas>=2.0.0
+
 ```
 
 ---
