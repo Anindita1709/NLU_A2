@@ -10,12 +10,12 @@ from wordcloud import WordCloud, STOPWORDS
 #  path of the file
 
 txt_files = [
-    "iitj_departments.txt",
-    "CSE_syllabus.txt",
-    "ACAD_regulation.txt",
-    "ACAD_calendar.txt",
-    "iitj_home_page.txt",
-    "iitj_corpus.txt",
+    "data/iitj_departments.txt",
+    "data/CSE_syllabus.txt",
+    "data/ACAD_regulation.txt",
+    "data/ACAD_calendar.txt",
+    "data/iitj_home_page.txt",
+    "data/iitj_corpus.txt",
 ]
 
 
