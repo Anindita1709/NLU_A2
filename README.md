@@ -8,15 +8,6 @@ This repository contains code for:
 - Name generation models using RNN, BiLSTM, and Attention+RNN
 ---
 
-## Requirements
-
-Install all required packages:
-
-```
-pip install -r requirements.txt
-```
-
----
 
 ## Running the Code from Terminal
 
