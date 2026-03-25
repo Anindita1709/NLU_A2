@@ -23,7 +23,7 @@ pip install -r requirements.txt
 ### Clone the repository & go to the right directory 
 ```
 git clone https://github.com/Anindita1709/NLU_A2.git
-cd NLU_A2
+cd NLU_A2\Problem #
 ```
 
 ### Install dependencies
