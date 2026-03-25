@@ -84,7 +84,7 @@ python main_compare.py
 ```
 ## Final Comparison
 
-![Model Comparison](Problem2/outputs/comparison.png)
+![Model Comparison](Problem%202/outputs/comparison.png)
 
 
 ---
