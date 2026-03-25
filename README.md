@@ -56,13 +56,13 @@ python manualword2vec.py
 
 ## Dataset Statistics
 
-![Dataset Statistics](per_document_stats.csv)
+![Dataset Statistics](problem1\per_document_stats.csv)
 
 ---
 
 ## Word Cloud
 
-![Word Cloud](wordcloud.png)
+![Word Cloud](problem1\wordcloud.png)
 
 ---
 
@@ -73,11 +73,7 @@ python manualword2vec.py
 
 ---
 
-## requirements.txt
 
-```
-
-```
 
 ---
 
