@@ -20,7 +20,7 @@ pip install -r requirements.txt
 
 ## Running the Code from Terminal
 
-### Clone the repository
+### Clone the repository & go to the right directory 
 ```
 git clone https://github.com/Anindita1709/NLU_A2.git
 cd NLU_A2
@@ -56,13 +56,13 @@ python manualword2vec.py
 
 ## Dataset Statistics
 
-![Dataset Statistics](problem1\per_document_stats.csv)
+![Dataset Statistics](Problem1\per_document_stats.csv)
 
 ---
 
 ## Word Cloud
 
-![Word Cloud](problem1\wordcloud.png)
+![Word Cloud](Problem1\wordcloud.png)
 
 ---
 
