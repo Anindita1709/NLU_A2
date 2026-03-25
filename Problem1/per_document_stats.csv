@@ -1,0 +1,7 @@
+document,num_tokens,vocabulary_size
+iitj_departments.txt,11680,1853
+CSE_syllabus.txt,6,6
+ACAD_reg.txt,11591,1445
+ACAD_calendar.txt,1081,262
+iitj_home_page.txt,1752,603
+iitj_corpus.txt,545,307
