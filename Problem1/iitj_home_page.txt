@@ -1,0 +1,218 @@
+[Home]
+Indian Institute of Technology Jodhpur was established in 2008 to foster technology education and research in India. The institute emphasizes scholarship in teaching and learning, scholarship in research and creative accomplishments, and relevance to industry. IIT Jodhpur operates from an 852-acre residential permanent campus on National Highway 65 near Jodhpur toward Nagaur. Student life is described as vibrant and holistic, with emphasis on extracurricular activities, community service, and social responsibility.
+
+[About IITJ > Institute > Introduction to IIT Jodhpur]
+Indian Institute of Technology Jodhpur was established in 2008 to foster technology education and research in India. The institute is committed to technological thought and action for the country's economic development. It highlights teaching-learning, research and creative accomplishments, and industry relevance as its three driving forces. The campus is an 852-acre residential permanent campus on National Highway 65, planned as a symbol of academics that is simple yet profound. IIT Jodhpur also states that it follows a multidisciplinary approach to technology development, with state-of-the-art laboratories and academic degree programs organized through departments while research activities are coordinated through centers for technologies.
+
+[About IITJ > Institute > Vision and Mission]
+Vision: A future-driven institute that nurtures excellence of thought; creates, preserves, and imparts knowledge; and uses transformational technologies and interventions with a multidisciplinary approach to respond to societal challenges and aspirations.
+
+Mission highlights:
+- Foster humanitarian values, passion for learning, and creativity in faculty and students.
+- Build a high-quality, futuristic educational and research ecosystem.
+- Develop socially responsible faculty, students, and future leaders committed to a self-reliant India.
+- Catalyze a professional internal culture, enabling infrastructure, and ancillary services.
+- Forge national and international collaborations with industry and academia.
+
+Goals mentioned on the site include curriculum breadth and specialization, futuristic pedagogy, globally engaged research with state-of-the-art facilities, outreach for lifelong learning, institutional collaboration, industry connect, innovative financial planning, futuristic infrastructure, a strong student life cycle, and an agile people-centric organization.
+
+[About IITJ > Institute > History]
+History page exists in the Institute section. A separate detailed history page was detected but only partially retrieved during extraction.
+
+[About IITJ > Institute > Institute Reports]
+Institute Reports page exists in the Institute section, indicating annual or institutional reporting material. Detailed report contents were not expanded in this extraction.
+
+[About IITJ > Institute > Acts & Statutes]
+Acts & Statutes page exists in the Institute section. The page serves as a repository for governing documents and statutes relevant to the institute.
+
+[About IITJ > Institute > Institute Logo]
+Institute Logo page exists in the Institute section, indicating access to logo-related institutional identity material.
+
+[About IITJ > Statutory Bodies]
+This navbar link was present on the homepage but the page fetch timed out during extraction.
+
+[About IITJ > Key Functionaries]
+This navbar link was present on the homepage but the page fetch timed out during extraction.
+
+[About IITJ > Infrastructure]
+Infrastructure is a dedicated page under About IITJ. The page was reachable, though only the heading and structure were reliably extracted in this run.
+
+[About IITJ > Outreach]
+Outreach page lists outreach and engagement programs:
+- Lecture Series
+- Global Initiative for Academic Networks (GIAN)
+- IMPRINT India
+- Ishaan Vikaas Program
+- Rashtriya Avishkar Abhiyan (RAA)
+- Vigyan Jyoti Program
+- Unnat Bharat Abhiyan (UBA)
+- Ek Bharat Shreshtha Bharat
+
+[Administration > Office of Director]
+Office of Director is a dedicated administrative section on the IIT Jodhpur website. The specific page content was not richly exposed in parsed text during this extraction, but the section is available as a top-level administrative office page.
+
+[Administration > Office of Deputy Director]
+The Office of Deputy Director page includes a Key Functionaries section listing Professor Bhabani Kumar Satapathy as Deputy Director.
+
+[Administration > Office of Registrar]
+Office of Registrar is a dedicated administrative section on the IIT Jodhpur website. The page was accessible but only limited structure was extracted in this run.
+
+[Administration > Office of Administration]
+The Office of Administration page was accessible. In the retrieved passage, it referenced academic and research achievements associated with Prof. Saakshi Dhanekar and the FLAME Research Group, indicating the page contains institution-specific administrative and profile material. The full office narrative was not fully exposed in the parsed lines.
+
+[Administration > Various Offices]
+Various Offices page acts as an index to multiple administrative units, explicitly listing:
+- Office of Director
+- Office of Deputy Director
+- Office of Registrar
+- Office of Administration
+
+[Administration > Administrative Contact]
+Administrative Contact is a dedicated page under Administration. The page was accessible, but its tabular or directory-style contact details were not fully surfaced in the retrieved snippet.
+
+[Academics > Departments]
+Academic departments listed on the site:
+- Bioscience & Bioengineering
+- Chemistry
+- Chemical Engineering
+- Civil and Infrastructure Engineering
+- Computer Science & Engineering
+- Electrical Engineering
+- Mathematics
+- Mechanical Engineering
+- Materials Engineering
+- Physics
+
+[Academics > Schools]
+Schools listed on the site:
+- School of Artificial Intelligence and Data Science
+- School of Design
+- School of Liberal Arts
+- School of Management & Entrepreneurship
+
+[Academics > Centers]
+Centers listed on the site:
+- Center for Education Technology (CET)
+- Center for Emerging Technologies for Sustainable Development (CETSD)
+- Central Research Facility (CRF)
+- Center for Technology Foresight and Policy (CTFP)
+- Manekshaw Centre
+- Medical Technology Centre
+- Rishabh Centre for Research and Innovation in Clean Energy (RCRIC)
+
+[Academics > IDRPs/IDRCs]
+Interdisciplinary research platforms and centers listed on the site:
+- Centre for AIoT and Application
+- Space Technology
+- Digital Humanities
+- Robotics and Mobility Systems
+- Quantum Information & Computation
+- Centre for Digital Health
+
+[Academics > Office of Academics Affairs]
+The Office of Academics Affairs page included announcements such as reporting dates for new PG students (23-25 July 2025), new UG students (28-29 July 2025), commencement of classes (31 July 2025), UG offer letters from 22 July onward, fee link activation from 22 July onward, and admission-related query phone numbers. The page also presents Academic Divisions through links to Departments, Schools, IDRPs/IDRCs, and Centers.
+
+[Academics > Office of Executive Education]
+Office of Executive Education is a dedicated academic office page. It was accessible, though detailed body content was not fully surfaced in this extraction.
+
+[Academics > Engineering Science]
+Engineering Science is a dedicated academic page under Academics. The page was accessible, though only limited parsed content was surfaced in this extraction.
+
+[Admissions > Programs]
+Programs listed on the admissions page:
+- Bachelor of Technology
+- BS Program
+- Master of Technology
+- Master of Science
+- Doctor of Philosophy
+- Integrated Teacher Education Programme (ITEP)
+- Executive Programs
+- MBA
+- Masters of Design
+- Summer Undergraduate Research at Jodhpur (SURAJ)
+
+[Admissions > Admission to Postgraduate Programs]
+Admission to Postgraduate Programs is a dedicated page under Admissions. The page was accessible, though detailed body text was not fully expanded in the retrieved snippet.
+
+[Admissions > Admission Links]
+Admission Links page aggregates major admission-related entry points:
+- JEE (Advanced)
+- JEE Advance Brochure
+- GATE
+- JAM
+- M.Sc.
+- M.TECH.
+- Ph.D.
+- ITEP
+- Study in India (SII)
+- PMRF
+- ICCR Fellowship
+- GIAN
+- M.S. (By Research)
+- OMICS
+- MBA
+- Direct Admission Portal for International Students
+- ASEAN
+
+[Resources > Central Library]
+Central Library appears in the navbar as an external library domain link and was not expanded in this extraction.
+
+[Resources > Digital Infrastructure & Automation]
+The Digital Infrastructure & Automation center states that its primary objective is to provide computational resources, technical support, and expertise to students, faculty, and researchers across disciplines. It mentions advanced computing facilities including high-performance computing clusters, AI supercomputers, and specialized software to enable complex computation, simulation, and data-intensive research.
+
+[Resources > Primary Health Center]
+The Health Center page states that institute medical officers are available on campus in rotating shifts for 24/7 medical coverage. The extracted list included Dr. Anukriti Kumari, Dr. Bhuvnesh Kumar, Dr. Gaurav Kumar Viswas, Dr. Hemant Joshi, Dr. Neha Sharma, and Dr. Prashant Sankhla. The page also mentions access to sexual and reproductive healthcare services, education, and counselling provided by visiting gynaecologists and medical officers.
+
+[Research > AIOT Fab Facility]
+The AIoT Fab Facility page describes a facility equipped with tools for creating MEMS sensors, associated electronics, and other intelligent systems. It says the facility provides an ecosystem for faculty, students, and industry partners to co-create AIoT technologies and products.
+
+[Research > CRF Facility]
+Central Research Facility (CRF) appears as a research facility in the navbar and also in the Centers listing. The specific descriptive body text was not fully surfaced in this extraction.
+
+[Research > Office Of Research & Development]
+The Office of Research & Development page exposes quick-access areas for:
+- Notification
+- Projects
+- Information
+- Forms
+
+[Research > Company Oversight]
+This navbar link was present on the homepage, but extraction returned an internal error for the target page during this run.
+
+[Students > Office of Students]
+The Office of Students page includes a Key Functionaries section listing Ankita Sharma as Dean of Students Affairs (DOSA).
+
+[Students > Student Wellbeing Committee]
+Student Wellbeing Committee appears as an external subdomain link in the navbar and was not expanded in this extraction.
+
+[Students > Placements, Training & Internships]
+Placements, Training & Internships appears as an external subdomain link in the navbar and was not expanded in this extraction.
+
+[Students > Alumni]
+Alumni appears as an external subdomain link in the navbar and was not expanded in this extraction.
+
+[Faculty > Faculty Positions]
+The Faculty Positions page lists schools such as SAIDE, School of Design, SOLA, and SME, and invites candidates to choose IIT Jodhpur as a venue to serve the nation through their competencies and to address technology grand challenges. It also includes an online application link.
+
+[Faculty > FAQs: Applicants]
+The FAQs for Applicants page says potential applicants to faculty positions have raised questions grouped into the following categories:
+- Recruitment
+- Professional Development
+- IIT Jodhpur & Surroundings
+- Life @ IIT Jodhpur
+Unanswered questions can be sent to the Coordinator (Faculty) at cfaculty@iitj.ac.in.
+
+[Faculty > Faculty Members]
+The Faculty Members page says the institute has appointed faculty from different disciplines and organizes them through academic departments, schools, IDRPs, and centers. In the retrieved passage, departmental groupings included Bioscience & Bioengineering, Chemical Engineering, Civil and Infrastructure Engineering, Computer Science & Engineering, Electrical Engineering, Mechanical Engineering, Metallurgical and Materials Engineering, and others.
+
+[Faculty > Scholars-in-Residence]
+The Scholars-in-Residence page says IIT Jodhpur invites distinguished academics and industrialists for interaction with faculty, staff, and students on academics, careers, and life. The page organizes current scholars across departments, IDRPs/IDRCs, schools, and centers.
+
+[Faculty > Adjunct Faculty Members]
+The Adjunct Faculty Members page says the institute invites academics and industrialists of standing to engage with young faculty and students in teaching-learning and research-innovation activities. Current adjunct faculty are organized across departments and other academic units.
+
+[Faculty > Visiting Faculty Members]
+The Visiting Faculty Members page says IIT Jodhpur seeks services of superannuated faculty members from IITs, IISc, and other reputed institutes and universities in India and abroad. Current visiting faculty are organized across departments and other academic units.
+
+[Faculty > Why Pursue a Career @ IIT Jodhpur]
+The page presents reasons to build a career at IIT Jodhpur, including teaching-learning and research-creation as core drivers, significant investment in state-of-the-art material characterization and sophisticated instrumentation, and a technology umbrella approach spanning sciences, humanities and social sciences, and engineering. It explicitly names select domains including arid zone technologies such as solar energy, water, and smart buildings, as well as critical technologies involving materials, components, and systems.

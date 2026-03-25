@@ -1,0 +1,382 @@
+सं गणक विज्ञान एिं अवियां विकी वििाग
+Department of Computer Science & Engineering
+िारतीय प्रौद्योवगकी सं स्थान जोधपुर
+Indian Institute of Technology Jodhpur
+एन. एच. 62, नागौर रोड़, करिर, जोधपुर – 342030
+N.H. 62, Nagaur Road, Karwar, Jodhpur-342030
+दू रिाष सं ख्या: +91 291 2801252 ईमेल: office_cse@iitj.ac.in
+
+वेबसाइट https://iitj.ac.in/computer-science-engineering/
+CSProposed Curriculum
+M.Tech. CSE
+C
+at.
+
+Course Number, Course Title
+
+I Semester
+C
+CSL7xx
+0
+C
+
+CSL7xx
+0
+
+C
+
+CSL7xx
+0
+
+E
+
+XXX7X
+X0
+HSN7X
+X0
+
+N
+G
+1
+Total
+III Semester
+T
+MET8X
+Xo
+
+Mathematical
+Foundations for
+Computer Science
+Advanced
+Data
+Structures
+and
+Algorithms
+Advanced
+Architecture and
+OS
+Elective
+Non-Graded I
+
+LTP
+
+Credit
+s
+
+Ca
+t.
+
+LT-P
+
+Credit
+s
+
+30-0
+
+3
+
+II Semester
+C
+CSL7xx
+0
+
+Software & Data
+Engineering
+
+30-0
+
+3
+
+30-0
+
+3
+
+E
+
+XXX7X
+X0
+
+Elective
+
+30-0
+
+3
+
+30-0
+
+3
+
+E
+
+XXX7X
+X0
+
+Elective
+
+30-0
+
+3
+
+30-0
+10-0
+
+3
+
+E
+
+Elective
+
+N
+G
+2
+Total
+IV Semester
+T
+MET8X
+X0
+
+30-0
+10-0
+
+3
+
+S/X
+
+XXX7X
+X0
+HSN7X
+X0
+
+12
+Thesis
+
+Total
+
+16
+
+Course Number, Course Title
+
+Non-Graded II
+
+12
+Thesis
+
+16
+
+Total
+
+16
+
+16
+
+Reduced Electives CS
+S.No. Course Number
+CSL7XXX
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+
+Course Title
+Cybersecurity
+
+3-0-0
+
+3
+
+3-0-0
+
+3
+
+3-0-0
+
+3
+
+3-0-0
+
+3
+
+3-0-0
+
+3
+
+Computer Vision
+
+3-0-0
+
+3
+
+Distributed Database Systems
+
+3-0-0
+
+3
+
+Virtualization and Cloud Computing
+Machine Learning
+
+3-0-0
+
+3
+
+CSL7XX0
+
+3-0-0
+
+3
+
+CSL7XX0
+
+Mobile and Pervasive Computing
+
+3-0-0
+
+3
+
+CSL7XX0
+
+Natural Language Understanding
+
+3-0-0
+
+3
+
+CSL7XX0
+
+High Performance Computing Architectures
+
+3-0-0
+
+3
+
+CSL7XXX
+
+Complexity Theory
+
+CSL7XXX
+
+Advanced Algorithms
+
+CSL7XXX
+
+Emerging Network Technologies
+
+CSL7XXX
+
+Blockchain Technologies
+
+CSL7XXX
+CSL7XXX
+CSL7XXX
+
+वेबसाइट https://iitj.ac.in/computer-science-engineering/
+
+1
+
+S/X
+
+S.
+No
+.
+1
+2
+3
+3
+
+Categ
+ory
+
+Course Category Title
+
+Total
+Courses
+
+Total
+Credits
+
+C
+E
+NG
+T
+
+COMPULSORY
+ELECTIVES
+Non-Graded
+Thesis
+
+4
+4
+2
+2 (16+16)
+
+12
+12
+0
+32
+56
+
+Total
+
+Note: 1. The department should retain only the relevant courses as electives for the M.Tech. program. The courses that
+are either irrelevant or not attracting more than 10 students should be removed from the PG booklet.
+Course (Credit) Requirements for PhD students
+S.No Ph.D. in
+With
+.
+1.
+Engineering
+M.Tech., M.E. or M.Sc.
+discipline
+(Engineering) in an Engineering
+discipline
+M.Sc. degree in a Science
+discipline
+B.Tech., B.S., B.E. or B.Sc.
+(Engineering) in an Engineering
+discipline
+2.
+Science, Humanities
+M.Sc., M.A. and M.Phil. degree in
+or Social Science
+a Science, Humanities or Social
+discipline
+Science discipline
+3.
+Management, Design
+As per approved norms after 2
+years of Masters degree in
+appropriate discipline
+
+Minimum courses required
+4 Compulsory
+
+4 Compulsory (Same as M.Tech.
+Compulsory) + 4 Electives
+4 Compulsory (Same as M.Tech.
+Compulsory) + 4 Electives
+4 Compulsory
+
+4 Compulsory
+
+Note:
+1. Departments can design various sets of compulsory courses based on their research themes. These courses can
+either be existing ones or new courses introduced by the department.
+2. The four compulsory courses account for a minimum of 12 credits as per the current regulations.
+3. Direct Ph.D. students holding a B.Tech. degree can choose to pursue an additional M.Tech. degree by
+fulfilling the M.Tech. thesis requirements. The M.Tech. thesis work must be separate from the Ph.D. thesis.
+The additional degree will be awarded alongside the Ph.D. degree only upon the completion of the Ph.D.
+program.
+
+वेबसाइट https://iitj.ac.in/computer-science-engineering/
+
+2
+
+

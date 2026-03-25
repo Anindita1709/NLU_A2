@@ -1,0 +1,130 @@
+IIT JODHPUR WEB CORPUS (best-effort public-page extraction)
+Source site: https://www.iitj.ac.in/
+Collection date: 2026-03-18
+Note: This is a curated corpus built from publicly accessible IIT Jodhpur pages retrievable in this session, not a guaranteed full-site dump.
+
+================================================================================
+SOURCE: https://www.iitj.ac.in/
+TITLE: Indian Institute of Technology Jodhpur | IIT Jodhpur
+================================================================================
+About IIT Jodhpur
+Indian Institute of Technology Jodhpur was established in 2008, to foster technology education and research in India. The Institute is committed to technological thought and action to benefit the economic development of India. Scholarship in teaching and learning; Scholarship in research and creative accomplishments; and relevance to Industry are three driving forces for us at IIT Jodhpur.
+
+IIT Jodhpur functions from its sprawling residential Permanent Campus of 852 acres on National Highway 65, north-northwest of Jodhpur towards Nagaur. This campus is meticulously planned and envisioned to stand as a symbol of academics – simple, but deep.
+
+Highlights
+- Imaging atomic-scale magnetism with energy-filtered differential phase contrast method
+- Structure and exfoliation mechanism of two-dimensional boron nanosheets
+- 2D Materials for Potable Water Application: Basic Nano architectonics and Recent Progresses
+- MBA Admission 2026-28: CAT Cut-off for the Personal Interview
+- MBA 2026–28 Admissions date extended
+- Extension Notice for the post of Registrar, Advt. No: 62.
+- Advertisement for the post of Registrar (on Tenure/Deputation), IIT Jodhpur
+- Extension of application deadline for Empanelment of Advocate(s)/Law Firm(s) at IIT Jodhpur
+
+Latest News
+- Dr. Saakshi Dhanekar, Associate Professor in Department of Electrical Engineering, IIT Jodhpur published a manuscript in the Chemical Engineering Journal (Impact Factor = 13)
+- Congratulations to Dr Sandip Murarka for receiving the CRSI Bronze Medal
+- Congratulations to Dr Sandip Murarka on his appointment as an Associate Editor of RSC Advances, a prestigious journal published by the Royal Society of Chemistry (RSC)
+
+Announcements
+- Extension of application deadline for Empanelment of Advocate(s)/Law Firm(s) at IIT Jodhpur
+- List of Selected Candidates for PhD AY 2025-26 SEMESTER-II
+- List of Shortlisted Candidates for PhD AY 2025-26 SEMESTER-II (December 2025)
+
+Student Life at IIT Jodhpur
+Student life at IIT Jodhpur is vibrant and enriching, offering a perfect blend of academic learning and extracurricular activities. With a focus on holistic development, the institute provides numerous opportunities for students to explore their interests and talents beyond the classroom.
+
+================================================================================
+SOURCE: https://www.iitj.ac.in/m/Index/main-departments?lg=en
+TITLE: Departments | IIT Jodhpur
+================================================================================
+Departments
+- Bioscience & Bioengineering
+- Chemistry
+- Chemical Engineering
+- Civil and Infrastructure Engineering
+- Computer Science & Engineering
+- Electrical Engineering
+- Mathematics
+- Mechanical Engineering
+- Materials Engineering
+- Physics
+
+================================================================================
+SOURCE: https://www.iitj.ac.in/itep/en/admissions
+TITLE: Admissions | Integrated Teacher Education Programme | IIT Jodhpur
+================================================================================
+Admissions
+IIT Jodhpur offers admissions to the 4-year BSc-BEd ITEP Program for Secondary Stage with Majors in (i) Physics (ii) Chemistry, and (iii) Mathematics. Each batch will have a total intake of 50 students. Interested applicants should appear for the National Common Entrance Test (NCET), a national-level examination conducted by the National Testing Agency (NTA), on behalf of the National Council for Teacher Education (NCTE).
+
+================================================================================
+SOURCE: https://www.iitj.ac.in/Main/en/IT-Jodhpur-Surroundings
+TITLE: IIT Jodhpur & Surroundings
+================================================================================
+Q1. Where is IIT Jodhpur exactly located?
+IIT Jodhpur is located in its sprawling 852 acres campus at NH 65, Nagaur Road, Karwar, Jodhpur 342037.
+
+Q2. How to reach IIT Jodhpur?
+For details, please see “How to reach IIT Jodhpur” in the footer of the Institute's website.
+
+Q3. Is Jodhpur well connected for international and domestic travel?
+(Additional details exist on the page.)
+
+================================================================================
+SOURCE: https://iitj.ac.in/institute-repository/en/brochure
+TITLE: Brochure | Institute Repository | IIT Jodhpur
+================================================================================
+Repository / Brochure entries
+- Apr-2019: Institute Brochure for Prospective Faculty
+- 16-Mar-2020: Indian Institute of Technology Jodhpur: at a glance
+- 2022: IITJ at a Glance 2023
+- 2023: IITJ at a Glance 2023
+- 2024: IITJ at a Glance Hindi 2024
+- 2024: IITJ at a Glance English 2024
+
+================================================================================
+SOURCE: https://www.iitj.ac.in/computer-science-engineering
+TITLE: Computer Science & Engineering | IIT Jodhpur
+================================================================================
+Computer Science & Engineering
+Sections visible on the page include:
+- People
+- Undergraduate Programs
+- Postgraduate Programs
+- Programs for Working Professionals
+- Doctoral Programs
+- Research Area & Labs
+- Projects
+- Sponsors & Collaborators
+- Compute Resources
+
+Administrative / site information
+- Rolling Advertisement for faculty positions.
+- Last Updated: 20 Feb 2026 - 04:14 PM
+- Copyright © 2025 All Rights Reserved | This Portal is Owned, Designed, and Developed by Digital Infrastructure & Automation, IIT Jodhpur.
+- Address: N.H. 62, Nagaur Road, Karwar, Jodhpur - 342030, Rajasthan (India)
+
+================================================================================
+SOURCE: https://iitj.ac.in/school-of-design
+TITLE: School of Design | IIT Jodhpur
+================================================================================
+Academic Programs
+The School of Design at IIT Jodhpur offers a first-of-its-kind program in any IIT, the MDes in XR Design will address the growing need of the industry to create useful, engaging, and socially relevant experiences that extend the real world or live entirely in the virtual, in areas such as healthcare, entertainment, and education.
+
+XR Design Program
+Immerse yourself in the intersection of imagination, technology, and impact with the Extended Reality (XR) Design program at IIT Jodhpur. This cutting-edge program prepares you to become a pioneer in the dynamic world of Virtual Reality (VR), Augmented Reality (AR), and Mixed Reality (MR) design.
+
+The MDes in XR Design program's curriculum focuses on hands-on learning, equipping students with:
+- Technical mastery: Gain expertise in VR/AR/MR design and development tools, 3D modelling and animation, user interface design, and more.
+- Design thinking: Develop the skills to empathize with users, identify needs, and iterate on innovative solutions.
+- Storytelling and narrative design: Craft captivating narratives that resonate with audiences and leave a lasting impact.
+
+================================================================================
+SOURCE: https://iitj.ac.in/dia/en/dia
+TITLE: Digital Infrastructure & Automation (DIA) | IIT Jodhpur
+================================================================================
+Welcome To The Digital Infrastructure & Automation / Computer Center
+The Digital Infrastructure & Automation (DIA), commonly known as Computer Center of the Indian Institute of Technology Jodhpur, stands as a testament to the institution’s commitment to cutting-edge research, innovation, and technological development. As a pivotal hub for computing and information technology, the Computer Center has played a crucial role in shaping the academic landscape and the advancement of the institute.
+
+Since its inception, the Computer Center has undergone remarkable development and growth, aligning itself with advancements in the field of computing. Equipped with state-of-the-art infrastructure and a team of highly skilled professionals, the center has fostered an environment conducive to research and learning.
