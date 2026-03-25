@@ -69,7 +69,29 @@ python main_compare.py
 ```
 
 ---
+## Using GPU in Google Colab
 
+To accelerate training and improve performance, you can enable GPU support in Google Colab.
+
+### Steps to Enable GPU
+
+1. Open your notebook in **Google Colab**
+2. Click on **Runtime** (top menu)
+3. Select **Change runtime type**
+4. Under **Hardware accelerator**, choose **GPU**
+5. Click **Save**
+
+---
+
+### Verify GPU is Enabled
+
+Run the following code in a cell:
+
+```python
+import torch
+print("GPU Available:", torch.cuda.is_available())
+print("GPU Name:", torch.cuda.get_device_name(0) if torch.cuda.is_available() else "No GPU")
+```
 ## Running the Code in Google Colab
 
 ### Install dependencies
