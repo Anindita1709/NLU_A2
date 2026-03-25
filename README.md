@@ -6,30 +6,6 @@ This repository contains code for:
 - Word cloud visualization
 - Word embedding experiments
 - Name generation models using RNN, BiLSTM, and Attention+RNN
-
----
-
-## Project Structure
-
-```
-project/
-│── problem1/
-│   ├── corpus.txt
-│
-│── images/
-│   ├── dataset_stats.png
-│   ├── wordcloud.png
-│
-│── src/
-│   ├── main.py
-│   ├── preprocessing.py
-│   ├── train_word2vec.py
-│   ├── train_names.py
-│
-│── requirements.txt
-│── README.md
-```
-
 ---
 
 ## Requirements
@@ -46,8 +22,8 @@ pip install -r requirements.txt
 
 ### Clone the repository
 ```
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/Anindita1709/NLU_A2.git
+cd NLU_A2
 ```
 
 ### Install dependencies
@@ -57,7 +33,7 @@ pip install -r requirements.txt
 
 ### Run the code
 ```
-python main.py
+python datapreprocess.py
 ```
 
 ---
@@ -71,20 +47,20 @@ python main.py
 
 ### Run the script
 ```
-!python main.py
+!python datapreprocess.py
 ```
 
 ---
 
 ## Dataset Statistics
 
-![Dataset Statistics](images/dataset_stats.png)
+![Dataset Statistics](dataset_stats.png)
 
 ---
 
 ## Word Cloud
 
-![Word Cloud](images/wordcloud.png)
+![Word Cloud](wordcloud.png)
 
 ---
 
