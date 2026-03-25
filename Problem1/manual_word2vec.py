@@ -330,8 +330,8 @@ def run_experiments(corpus_path="corpus.txt"):
 
     experiment_results = []
 
-    embedding_dims = [50, 100]
-    window_sizes = [2, 4]
+    embedding_dims = [300, 100]
+    window_sizes = [2, 5]
     negative_samples_list = [3, 5]
 
     best_cbow = None
