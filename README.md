@@ -1,6 +1,6 @@
 # Word Embedding and Name Generation Project
 
-This repository contains code for:
+This repository contains code for: 
 - Corpus collection and preprocessing
 - Dataset statistics generation
 - Word cloud visualization
