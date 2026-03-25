@@ -49,7 +49,7 @@ python manual_word2vec.py
 ### Run the script
 ```
 !python data_preprocess.py
-!python manualword2vec.py
+!python manual_word2vec.py
 ```
 
 ---
