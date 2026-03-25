@@ -1,0 +1,10 @@
+torch>=2.0.0
+pypdf
+beautifulsoup4
+wordcloud
+requests
+matplotlib
+lxml
+scikit-learn
+numpy
+pandas
