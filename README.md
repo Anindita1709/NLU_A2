@@ -63,11 +63,32 @@ python manual_word2vec.py
 - Update file paths if needed
 
 ---
+### Run the code (Problem 2)
+```
+python main_compare.py
+```
 
+---
+
+## Running the Code in Google Colab
+
+### Install dependencies
+```
+!pip install -r requirements.txt
+```
+
+### Run the script
+```
+!python main_compare.py
+
+```
+## Final Comparison
+
+![Model Comparison](Problem2/outputs/comparison.png)
 
 
 ---
 
 ## Author
 
-Your Name
+Anindita
